@@ -1,6 +1,3 @@
-#python imgs_from_video.py --f
-
-
 # Importing all necessary libraries
 import sys
 import argparse
