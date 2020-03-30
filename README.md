@@ -34,7 +34,7 @@ To cofig this script ypu can use this flags:
 ![1917](img/1917.jpg)
 
 #### Green Book
-![Green Book](img/Green_Book.jpg)
+![Green Book](img/Green_book.jpg)
 
 #### Parasite
 ![Parasite](img/Parasite.jpg)
