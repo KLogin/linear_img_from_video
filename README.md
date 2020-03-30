@@ -18,29 +18,29 @@ To cofig this script ypu can use this flags:
 
 ## Art pictures by movies:
 
+#### Joker
+![Joker](img/Joker.jpg)
+
+#### Aladdin (2019)
+![Aladdin](img/Aladdin_2019.jpg)
+
+#### Forrest Gamp
+![Forrest Gamp](img/Forrest_Gamp.jpg)
+
+#### The Lion King (1994, cartoon)
+![The Lion King (1994, cartoon)](img/The_Lion_King_1994.jpg)
+
 #### 1917
 ![1917](img/1917.jpg)
 
-#### Aladdin (2019)
-![1917](img/Aladdin_2019.jpg)
-
-#### Forrest Gamp
-![1917](img/Forrest_Gamp.jpg)
-
 #### Green Book
-![1917](img/Green_Book.jpg)
-
-#### Joker
-![1917](img/Joker.jpg)
+![Green Book](img/Green_Book.jpg)
 
 #### Parasite
-![1917](img/Parasite.jpg)
+![Parasite](img/Parasite.jpg)
 
 #### The Green Mile
-![1917](img/The_Green_Mile.jpg)
-
-#### The Lion King (1994, cartoon)
-![1917](img/The_Lion_King_1994.jpg)
+![The Green Mile](img/The_Green_Mile.jpg)
 
 #### The Shawshank Redemption
-![1917](img/The_Shawshank_Redemption.jpg)
+![The Shawshank Redemption](img/The_Shawshank_Redemption.jpg)
